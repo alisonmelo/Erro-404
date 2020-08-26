@@ -1,4 +1,4 @@
-# error 404 Page
+# Error 404 Page
 
 Uma belissima página de erro 404.
 
