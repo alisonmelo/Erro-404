@@ -2,7 +2,7 @@
 
 Uma belissima página de erro 404.
 
-![](img/preview.png)
+![](img/app.png)
 
 ## Visualizar
 
