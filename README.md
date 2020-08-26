@@ -2,8 +2,7 @@
 
 Uma belissima página de erro 404.
 
-## Previerw
-
+![](imgs/preview.png)
 
 ## Visualizar
 
